@@ -1,6 +1,6 @@
 # 🏷️ Modelo Predictivo para la Optimización Estratégica de Precios
 
-1. Resumen Ejecutivo: Del Dato a la Rentabilidad 💰
+## 1. Resumen Ejecutivo: Del Dato a la Rentabilidad 💰
 Este proyecto se enfoca en resolver uno de los desafíos centrales del sector Retail: la fijación de precios óptimos. Utilizando un enfoque de Data Science y Machine Learning (ML), desarrollamos una solución que trasciende el análisis histórico para construir una Curva de Demanda Predictiva.
 
 2. Contexto de Negocio y Pregunta Clave
